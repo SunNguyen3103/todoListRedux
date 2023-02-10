@@ -1,4 +1,4 @@
-import * as types from "./Type";
+import * as types from "./type";
 import { v4 as uuidv4 } from "uuid";
 const INITIAL_STATE = {
   todos: [],
