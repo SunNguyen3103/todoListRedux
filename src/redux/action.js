@@ -1,4 +1,4 @@
-import * as types from "./Type";
+import * as types from "./type";
 export const completeTodo = (todo) => ({
   type: types.COMPLETE_TODO,
   payload: todo,
